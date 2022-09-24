@@ -32,7 +32,7 @@
 
       Admin => UserName:  Admin        Pass: 1234
       
-      Practitioner => UserName:Jeme    Pass: 1234
+      Practitioner => UserName:Jema    Pass: 1234
        
       Patient => UserName:  lulu       Pass: 1234
        
